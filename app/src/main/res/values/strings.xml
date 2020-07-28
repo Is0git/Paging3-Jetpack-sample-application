@@ -5,4 +5,5 @@
     <string name="username_null">username: null</string>
     <string name="description_null">description: null</string>
     <string name="like">LIKE</string>
+    <string name="error">Error:</string>
 </resources>

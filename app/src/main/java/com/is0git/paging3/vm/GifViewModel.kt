@@ -11,7 +11,6 @@ import androidx.paging.cachedIn
 import com.is0git.paging3.GifRepository
 
 class GifViewModel @ViewModelInject constructor(var repo: GifRepository, @Assisted var savedStateHandle: SavedStateHandle) : ViewModel() {
-
     val pagedDataFlow = Pager(
         PagingConfig(10)
     ) {
