@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Paging 3</string>
+    <string name="title_null">title: null</string>
+    <string name="date_null">date: null</string>
+    <string name="username_null">username: null</string>
+    <string name="description_null">description: null</string>
+    <string name="like">LIKE</string>
+</resources>
